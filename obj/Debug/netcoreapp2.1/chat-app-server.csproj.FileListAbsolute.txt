@@ -1,0 +1,14 @@
+C:\Users\Chris\Repos\chat-app-server\chat-app-server\bin\Debug\netcoreapp2.1\chat-app-server.deps.json
+C:\Users\Chris\Repos\chat-app-server\chat-app-server\bin\Debug\netcoreapp2.1\chat-app-server.runtimeconfig.json
+C:\Users\Chris\Repos\chat-app-server\chat-app-server\bin\Debug\netcoreapp2.1\chat-app-server.runtimeconfig.dev.json
+C:\Users\Chris\Repos\chat-app-server\chat-app-server\bin\Debug\netcoreapp2.1\chat-app-server.dll
+C:\Users\Chris\Repos\chat-app-server\chat-app-server\obj\Debug\netcoreapp2.1\chat-app-server.csprojAssemblyReference.cache
+C:\Users\Chris\Repos\chat-app-server\chat-app-server\obj\Debug\netcoreapp2.1\chat-app-server.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Repos\chat-app-server\chat-app-server\obj\Debug\netcoreapp2.1\chat-app-server.RazorAssemblyInfo.cache
+C:\Users\Chris\Repos\chat-app-server\chat-app-server\obj\Debug\netcoreapp2.1\chat-app-server.RazorAssemblyInfo.cs
+C:\Users\Chris\Repos\chat-app-server\chat-app-server\obj\Debug\netcoreapp2.1\chat-app-server.AssemblyInfoInputs.cache
+C:\Users\Chris\Repos\chat-app-server\chat-app-server\obj\Debug\netcoreapp2.1\chat-app-server.AssemblyInfo.cs
+C:\Users\Chris\Repos\chat-app-server\chat-app-server\obj\Debug\netcoreapp2.1\chat-app-server.RazorTargetAssemblyInfo.cache
+C:\Users\Chris\Repos\chat-app-server\chat-app-server\bin\Debug\netcoreapp2.1\chat-app-server.pdb
+C:\Users\Chris\Repos\chat-app-server\chat-app-server\obj\Debug\netcoreapp2.1\chat-app-server.dll
+C:\Users\Chris\Repos\chat-app-server\chat-app-server\obj\Debug\netcoreapp2.1\chat-app-server.pdb
